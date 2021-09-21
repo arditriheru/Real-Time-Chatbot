@@ -1,2 +1,3 @@
-# chatbot
-Aplikasi percakapan pesan singkat 
+# Chatbot
+Aplikasi percakapan pesan singkat RealTime
+Dengan notifikasi RealTime
